@@ -1,0 +1,19 @@
+.nav-wrapper {
+    background-color: #19e399;
+    height: 50px;
+}
+
+
+li > a{
+    text-decoration: none;
+    color: black;
+}
+
+.content {
+    height: 100%;
+    margin-top: 20px
+}
+
+.tb-btn {
+    width:25px;
+}
